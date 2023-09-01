@@ -1,0 +1,31 @@
+body {
+    margin: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+    
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    background: #efc3e6;
+    color: #352208;
+    border-bottom:  6px solid #41521f ;
+    text-align: center;
+    border-radius: 20px;
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+.bold {
+    font-style: bold;
+}
+.italic {
+    font-style: italic;
+}
